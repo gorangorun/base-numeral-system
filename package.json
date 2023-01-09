@@ -1,0 +1,35 @@
+{
+  "name": "base-numeral-system",
+  "version": "1.0.4",
+  "description": "Base numeral system converter. Convert from/to Binary, Octal, Decimal, Hexadecimal.",
+  "main": "src/base-numeral-system.js",
+  "keywords": [
+    "Binary to Decimal",
+    "Binary to Hexadecimal",
+    "Binary to Octal",
+    "Octal to Decimal",
+    "Octal to Binary",
+    "Octal to Hexadecimal",
+    "Decimal to Hexadecimal",
+    "Decimal to Binary",
+    "Decimal to Octal",
+    "Hexadecimal to Binary",
+    "Hexadecimal to Decimal",
+    "Hexadecimal to Octal"
+  ],
+  "author": "Goran <gorang.pub@gmail.com>",
+  "homepage": "https://tools.base64decode.net/libs/base-numeral-system",
+  "license": "MIT",
+  "type": "module",
+  "bugs": "https://github.com/gorangorun/base-numeral-system/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gorangorun/base-numeral-system.git"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
